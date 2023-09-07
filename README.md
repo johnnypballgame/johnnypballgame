@@ -1,4 +1,4 @@
-### Educator. Coach. 
+### Educator 👨‍🏫 Coach ⚾️
 #### Python Powershell
 
 <!--
