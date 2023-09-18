@@ -1,5 +1,5 @@
 ### Educator 👨‍🏫 Coach ⚾️
-#### Python Powershell SQL
+#### Python SQL R
 
 <!--
 **johnnypballgame/johnnypballgame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
